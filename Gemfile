@@ -44,7 +44,7 @@ group :development, :test do
   gem 'rspec-rails', '~> 3.0'
   gem 'shoulda-matchers', '~> 2.8.0'
   gem 'factory_girl_rails', '~> 4.5.0'
-
+  gem 'forgery', '~> 0.6.0'
 end
 
 gem 'carrierwave', '~> 0.10.0'
