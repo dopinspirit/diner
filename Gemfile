@@ -48,3 +48,4 @@ group :development, :test do
 end
 
 gem 'carrierwave', '~> 0.10.0'
+gem 'devise'
